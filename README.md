@@ -1,2 +1,3 @@
 # pong.py
-Pong in python.
+
+this is a simple version on pong made in python - turtle
